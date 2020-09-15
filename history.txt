@@ -1,0 +1,111 @@
+    1  echo $8
+    2  echo $0
+    3  ps
+    4  python3
+    5  ipython3
+    6  ipython
+    7  ipython
+    8  ipython3
+    9  x=2
+   10  y=3
+   11  z=y+x
+   12  y
+   13  z
+   14  $z
+   15  Zy
+   16  $y
+   17  user
+   18  username
+   19  ls
+   20  cd Documents
+   21  ls
+   22  cd 'Data Science'
+   23  ls
+   24  cd 'Python Scripts'
+   25  ls
+   26  ~
+   27  cd \
+   28  cd/
+   29  cd .
+   30  cd /
+   31  ls
+   32  cd..
+   33  cd..
+   34  ls
+   35  ls
+   36  cd Documents
+   37  ls
+   38  cd 'Data Science'
+   39  ls
+   40  cd 'Galvanize training'
+   41  ls
+   42  cd 'Week 1'
+   43  mkdir 'Week 1'
+   44  ls
+   45  cd 'Week 1'
+   46  touch hello.txt
+   47  ls
+   48  touch -file{e,f,g}.py
+   49  ls
+   50  history
+   51  touch -file{e,f,g}.py
+   52  touch file-{e,f,g}.py
+   53  ls
+   54  ls
+   55  ls
+   56  touch {1....6}.py
+   57  ls
+   58  touch -{1....6}.py
+   59  touch {1....6}.py
+   60  ls
+   61  ls
+   62  touch {1..6}.py
+   63  ls
+   64  touch {8...22}.py
+   65  ls
+   66  touch {8..22}.py
+   67  ls
+   68  rm*
+   69  vi hello.py
+   70  ls
+   71  cd..
+   72  ls all
+   73  ls
+   74  ls -all
+   75  vi hello.txt
+   76  mv hello.txt hello.py
+   77  ls
+   78  python --version
+   79  python --version
+   80  python -version
+   81  python --version
+   82  ls
+   83  python hello.py
+   84  ls
+   85  cd 'Documents'
+   86  cd 'Data Science'
+   87  ls
+   88  cd 'Galvanize training'
+   89  ls
+   90  cd 'Week 1'
+   91  python --version
+   92  ls
+   93  python hello.py
+   94  python --version
+   95  curl https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv  > zillow.csv
+   96  ls
+   97  cat zillow.csv
+   98  mkdir Galvanize/w1d1/git
+   99  mkdir Galganize
+  100  rm Galganize
+  101  rmd Galganize
+  102  -r Galganize
+  103  rm -r Galganize
+  104  mkdir Galvanize
+  105  cd Galvanize
+  106  mkdir w1d1
+  107  cd w1d1
+  108  cd git
+  109  mkdir git
+  110  cd git
+  111  history > history.txt
